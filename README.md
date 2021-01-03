@@ -1,6 +1,7 @@
 # Image-Searcher
 
 Dependencies 
+
 pip install pysimplegui
 
 pip install flickrapi
